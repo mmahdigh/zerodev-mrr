@@ -5039,15 +5039,10 @@ pathe@^1.1.0, pathe@^1.1.1, pathe@^1.1.2:
   resolved "https://registry.yarnpkg.com/pathe/-/pathe-1.1.2.tgz#6c4cb47a945692e48a1ddd6e4094d170516437ec"
   integrity sha512-whLdWMYL2TwI08hn8/ZqAbrVemu0LNaNNJZX73O6qaIdCTfXutsLhMkjdENX0qhsQ9uIimo4/aQOmXkoon2nDQ==
 
-permissionless@^0.0.34:
+permissionless@0.0.34, permissionless@^0.0.34:
   version "0.0.34"
   resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.0.34.tgz#479ee4c02068c6982a308df7a64351eea626a00d"
   integrity sha512-lP59+7VmjLO7dPctH69kgcJ8evxGkrjQ9hruOA+7ymWvUMiuXAfVxvXSWCV+lg67N2TGs1JneEuhwK+iI3kPvA==
-
-permissionless@^0.1.11:
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/permissionless/-/permissionless-0.1.12.tgz#4cc80f90dd95353f53e1ba4f08bd21a5c5f9e1da"
-  integrity sha512-lB12zgMbQDdBlx7GZAdrZQUWBtDxT9D13aqLzwMe7o5SGUw62IR2rCnYVoU+iCFYnotZ6BdI3Q1YusktXsSebw==
 
 picocolors@^1.0.0:
   version "1.0.0"
