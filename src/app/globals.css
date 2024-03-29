@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --border-secondary: #b8b8b8;
+  --text-secondary: #9b9ba7;
+  --background-secondary: #f6f6f6;
+}
+
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+}
