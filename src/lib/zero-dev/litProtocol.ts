@@ -2,7 +2,7 @@ import { LitAbility, LitActionResource } from '@lit-protocol/auth-helpers'
 import { LitNodeClient } from '@lit-protocol/lit-node-client'
 import { PKPEthersWallet } from '@lit-protocol/pkp-ethers'
 import { AuthCallbackParams } from '@lit-protocol/types'
-import { createEcdsaKernelAccountClient } from '@zerodev/presets/zerodev'
+import { createEcdsaKernelAccountClient } from '@zerodev/presets'
 import { providerToSmartAccountSigner } from 'permissionless'
 import { polygonMumbai } from 'viem/chains'
 
